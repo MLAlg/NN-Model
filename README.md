@@ -1,7 +1,7 @@
 # NN-Model
 Neural Net Modle
 
-dataset: load-hoda-full.mat,
+dataset: Data_hoda_full.mat,
 
 problem: supervised learning,
 
